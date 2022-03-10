@@ -3,7 +3,7 @@
 - 👀 I’m interested in Help other peoples, How i can
 - 🌱 I’m currently learning C# and CSS3
 - 💞️ I’m looking to collaborate on Portuguese translations
-- 📫 How to reach me: On Discord: Victor_Ghost#9449
+- 📫 How to reach me: On Discord: Victor Ghost#9449
 
 <!---
 VictorMacielGhost/VictorMacielGhost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
