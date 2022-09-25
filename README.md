@@ -1,16 +1,16 @@
-## 👋 Hello! Welcome to my Github profile.
-### My name is Victor Maciel and my nickname is "Victor Ghost"!
+# Bem Vindo ao meu Github!
 
-- 🔭 Atualmente estou trabalhando no servidor FluxoRJ 
-- 🌱 Atualmente estou aprendendo Power BI e Java POO
-- 👯 Estou procurando colaborar em Traduções para português
-- 📫 Como entrar em contato comigo: Discord: Victor Ghost #9449
-- 😄 Pronomes: AC/DC
-- ⚡ Curiosidades: Brasileiro | 16 anos | Carioca xD
+## Me Chamo Victor "*Ghost*" Maciel, tenho 16 anos e sou estudante de programação.
 
-### Ferramentas e Tecnologias
+#### No Meu github você poderá encontrar alguns sistemas que fiz durante estudos, e leva-los como exemplo para seus próprios estudos, ou então apenas para conhecer melhor minha forma de codificação.
+
+#### Iniciei na programação com 14 anos, sendo scripter de samp (Pawn), então nesse perfil você poderá encontrar também, alguns sistemas feitos por mim / contribuições minhas para a comunidade de samp/open (Exemplos de repositórios: open.ac (ant cheat para samp / open.mp), open.models loader (Sistema para carregar / manipular mais facilmente modelos .txd e .dff para a versão 0.3DL do samp / open.mp) e outros.
+
+### Algumas Ferramentas e Tecnologias que possuo conhecimento são:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>                    
+
+### Algumas Informações e estatística de meu perfil:
 
 <div>
 <a href="https://github.com/VictorMacielGhost">
@@ -18,7 +18,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMacielGhost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Contatos:
+### Meios de contatos Contatos:
 
 <div>
 <a href="https://www.youtube.com/VictorGhost" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
