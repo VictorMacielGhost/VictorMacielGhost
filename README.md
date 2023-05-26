@@ -1,16 +1,16 @@
 # Bem Vindo ao meu Github!
 
-## Me Chamo Victor "*Ghost*" Maciel, tenho 16 anos e sou estudante de programação.
+## Me Chamo Victor "Ghost", tenho 17 anos e sou estudante de programação.
 
 #### No Meu github você poderá encontrar alguns sistemas que fiz durante estudos, e leva-los como exemplo para seus próprios estudos, ou então apenas para conhecer melhor minha forma de codificação.
 
-#### Iniciei na programação com 14 anos, sendo scripter de samp (Pawn), então nesse perfil você poderá encontrar também, alguns sistemas feitos por mim / contribuições minhas para a comunidade de samp/open (Exemplos de repositórios: open.ac (ant cheat para samp / open.mp), open.models loader (Sistema para carregar / manipular mais facilmente modelos .txd e .dff para a versão 0.3DL do samp / open.mp) e outros.
+#### Iniciei na programação com 14 anos, sendo scripter de samp (Pawn), então nesse perfil você poderá encontrar também, alguns sistemas feitos por mim / contribuições minhas para a comunidade de samp/open.mp.
 
 ### Algumas Ferramentas e Tecnologias que possuo conhecimento são:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>                    
 
-### Algumas Informações e estatística de meu perfil:
+### Algumas Informações e estatísticas do meu perfil:
 
 <div>
 <a href="https://github.com/VictorMacielGhost">
