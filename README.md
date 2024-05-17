@@ -1,6 +1,6 @@
 # Bem Vindo ao meu Github!
 
-## Me Chamo Victor "Ghost", tenho 17 anos e sou estudante de programação.
+## Me Chamo Victor "Ghost", tenho 18 anos e sou estudante de engenharia da computação e desenvolvedor back-end.
 
 #### No Meu github você poderá encontrar alguns sistemas que fiz durante estudos, e leva-los como exemplo para seus próprios estudos, ou então apenas para conhecer melhor minha forma de codificação.
 
