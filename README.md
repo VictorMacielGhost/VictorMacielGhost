@@ -1,16 +1,12 @@
-# Bem Vindo ao meu Github!
+# Welcome to My GitHub
 
-## Me Chamo Victor "Ghost", tenho 18 anos e sou estudante de engenharia da computação e desenvolvedor back-end.
+## My name is Victor "Ghost," an 18-year-old Computer Engineering student and back-end developer.
 
-#### No Meu github você poderá encontrar alguns sistemas que fiz durante estudos, e leva-los como exemplo para seus próprios estudos, ou então apenas para conhecer melhor minha forma de codificação.
+#### This GitHub profile showcases various projects I've developed during my studies. You can use them as references for your own learning or to gain insight into my coding practices.
 
-#### Iniciei na programação com 14 anos, sendo scripter de samp (Pawn), então nesse perfil você poderá encontrar também, alguns sistemas feitos por mim / contribuições minhas para a comunidade de samp/open.mp.
+#### I began my programming journey at the age of 14 as a scripter for SAMP (Pawn). Here, you will also find systems and contributions I've made to the SAMP/open.mp community.             
 
-### Algumas Ferramentas e Tecnologias que possuo conhecimento são:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>                    
-
-### Algumas Informações e estatísticas do meu perfil:
+### Profile Statistics
 
 <div>
 <a href="https://github.com/VictorMacielGhost">
@@ -18,12 +14,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMacielGhost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Meios de contatos Contatos:
+### Contact Information
 
 <div>
 <a href="https://www.youtube.com/VictorGhost" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/victor_maciel_ghost" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:vtbolado17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:vtbolado17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
 <!---
