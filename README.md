@@ -1,6 +1,6 @@
 # Welcome to My GitHub
 
-## My name is Victor "Ghost," an 18-year-old Computer Engineering student and back-end developer.
+## Victor "Ghost" – Backend Developer & Computer Engineering Student
 
 #### This GitHub profile showcases various projects I've developed during my studies. You can use them as references for your own learning or to gain insight into my coding practices.
 
